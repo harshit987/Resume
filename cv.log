@@ -1,9 +1,10 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.1.5)  7 JAN 2019 02:39
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.1.5)  7 JAN 2019 02:45
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
-**cv.tex
-(./cv.tex
+**/home/harshit/harshit/cv
+(/home/harshit/harshit/cv.tex
 LaTeX2e <2017-04-15>
 Babel <3.18> and hyphenation patterns for 3 language(s) loaded.
 (./awesome-cv.cls
@@ -24,16 +25,14 @@ File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
-)
-(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
 Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
 \col@sep=\dimen103
 \extrarowheight=\dimen104
 \NC@list=\toks14
 \extratabsurround=\skip43
 \backup@length=\skip44
-)
-(/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \enitkv@toks@=\toks15
 \labelindent=\skip45
@@ -41,11 +40,9 @@ Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \enit@toks=\toks16
 \enit@inbox=\box26
 \enitdp@description=\count87
-)
-(/usr/share/texlive/texmf-dist/tex/latex/ms/ragged2e.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/ms/ragged2e.sty
 Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
-
-(/usr/share/texlive/texmf-dist/tex/latex/ms/everysel.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/ms/everysel.sty
 Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 )
 \CenteringLeftskip=\skip46
@@ -62,22 +59,17 @@ Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 \RaggedLeftParindent=\skip57
 \RaggedRightParindent=\skip58
 \JustifyingParindent=\skip59
-)
-(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
-
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
-)
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
-)
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
-)
-(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+) (/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count88
@@ -92,10 +84,8 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layouthoffset=\dimen112
 \Gm@layoutvoffset=\dimen113
 \Gm@dimlist=\toks18
-)
-(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
-s
+) (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footers
 \f@nch@headwidth=\skip60
 \f@nch@O@elh=\skip61
 \f@nch@O@erh=\skip62
@@ -105,16 +95,13 @@ s
 \f@nch@O@erf=\skip66
 \f@nch@O@olf=\skip67
 \f@nch@O@orf=\skip68
-)
-(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
-
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: xetex.def on input line 225.
-
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def
 File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
 )
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
@@ -125,11 +112,9 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
-)
-(/usr/share/texlive/texmf-dist/tex/latex/xifthen/xifthen.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/xifthen/xifthen.sty
 Package: xifthen 2015/11/05 v1.4.0 Extended ifthen features
-
-(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count91
 \calc@Bcount=\count92
@@ -141,26 +126,18 @@ LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count93
 \calc@Cskip=\skip71
-)
-(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
-)
-(/usr/share/texlive/texmf-dist/tex/latex/ifmtarg/ifmtarg.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/ifmtarg/ifmtarg.sty
 Package: ifmtarg 2009/09/02 v1.2a check for an empty argument
-))
-(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+)) (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2018/02/11 v2.5e e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count94
-)
-(/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
-)
-(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
-(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2018/02/21 L3 programming layer (loader) 
-
-(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+ (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3-code.tex
 Package: expl3 2018/02/21 L3 programming layer (code)
 \c_max_int=\count95
 \l_tmpa_int=\count96
@@ -298,8 +275,7 @@ Package: expl3 2018/02/21 L3 programming layer (code)
 \l__coffin_top_corner_dim=\dimen144
 \l__coffin_scaled_total_height_dim=\dimen145
 \l__coffin_scaled_width_dim=\dimen146
-)
-(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def
+) (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def
 File: l3xdvidpfmx.def 2017/03/18 v L3 Experimental driver: xdvipdfmx
 \g__driver_image_int=\count173
 \l__driver_tmp_box=\box42
@@ -312,10 +288,8 @@ Package: xparse 2018/02/21 L3 Experimental document command parser
 \l__xparse_v_nesting_int=\count178
 )
 Package: fontspec 2017/11/09 v2.6g Font selection for XeLaTeX and LuaLaTeX
-
-(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
-Package: fontspec-xetex 2017/11/09 v2.6g Font selection for XeLaTeX and LuaLaTe
-X
+ (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2017/11/09 v2.6g Font selection for XeLaTeX and LuaLaTeX
 \l__fontspec_script_int=\count179
 \l__fontspec_language_int=\count180
 \l__fontspec_strnum_int=\count181
@@ -328,11 +302,9 @@ X
 \l__fontspec_tmpb_dim=\dimen148
 \l__fontspec_tmpc_dim=\dimen149
 \g__file_internal_ior=\read1
-
-(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
-
-(/usr/share/texlive/texmf-dist/tex/latex/base/tuenc.def
+ (/usr/share/texlive/texmf-dist/tex/latex/base/tuenc.def
 File: tuenc.def 2017/04/05 v2.0i Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding TU on input line 82.
 ))
@@ -506,8 +478,7 @@ LaTeX Font Info:    Redeclaring font encoding TU on input line 82.
 . 
 . Defining command \UndeclareComposite with sig. 'mm' on line 3706.
 .................................................
-
-(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)
+ (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)
 LaTeX Info: Redefining \itshape on input line 3891.
 LaTeX Info: Redefining \slshape on input line 3896.
 LaTeX Info: Redefining \scshape on input line 3901.
@@ -525,24 +496,17 @@ LaTeX Info: Redefining \- on input line 4015.
 . 
 . Defining command \liningnums with sig. 'm' on line 4114.
 .................................................
-))
-(/usr/share/texlive/texmf-dist/tex/latex/unicode-math/unicode-math.sty
+)) (/usr/share/texlive/texmf-dist/tex/latex/unicode-math/unicode-math.sty
 Package: unicode-math 2018/02/02 vv0.8l Unicode maths in XeLaTeX and LuaLaTeX
-
-(/usr/share/texlive/texmf-dist/tex/latex/unicode-math/unicode-math-xetex.sty
-Package: unicode-math-xetex 2018/02/02 vv0.8l Unicode maths in XeLaTeX and LuaL
-aTeX
-
-(/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/unicode-math/unicode-math-xetex.sty
+Package: unicode-math-xetex 2018/02/02 vv0.8l Unicode maths in XeLaTeX and LuaLaTeX
+ (/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
 Package: l3keys2e 2018/02/21 LaTeX2e option processing using LaTeX3 keys
-)
-(/usr/share/texlive/texmf-dist/tex/latex/filehook/filehook.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/filehook/filehook.sty
 Package: filehook 2011/10/12 v0.5d Hooks for input files
-)
-(/usr/share/texlive/texmf-dist/tex/latex/base/fix-cm.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/base/fix-cm.sty
 Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
-
-(/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.def
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.def
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 ))
 \g__um_fam_int=\count187
@@ -557,4 +521,66 @@ File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setmathf
+. Defining command \setmathfont with sig. 'O{}mO{}' on line 273.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmathfontface with sig. 'mO{}mO{}' on line 277.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setoperatorfont with sig. 'm' on line 282.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \addnolimits with sig. 'm' on line 287.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \removenolimits with sig. 'm' on line 291.
+.................................................
+ (/usr/share/texlive/texmf-dist/tex/latex/unicode-math/unicode-math-table.tex)
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \not with sig. 'm' on line 3835.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \NewNegationCommand with sig. 'mm' on line 3839.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \RenewNegationCommand with sig. 'mm' on line 3843.
+.................................................
+))
+
+! LaTeX Error: File `fontawesome.sty' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
+
+Enter file name: 
+./awesome-cv.cls:78: Emergency stop.
+<read *> 
+         
+l.78 \RequirePackage
+                    [default,opentype]{sourcesanspro}^^M
+*** (cannot \read from terminal in nonstop modes)
+
+ 
+Here is how much of TeX's memory you used:
+ 16155 strings out of 494988
+ 321995 string characters out of 6178639
+ 426705 words of memory out of 5000000
+ 19952 multiletter control sequences out of 15000+600000
+ 530296 words of font info for 25 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 46i,0n,45p,10513b,233s stack positions out of 5000i,500n,10000p,200000b,80000s
+No pages of output.
