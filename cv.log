@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.1.5)  7 JAN 2019 02:45
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.1.5)  7 JAN 2019 03:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1117,11 +1117,11 @@ LaTeX Info: Redefining \selectfont on input line 52.
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
 * h-part:(L,W,R)=(39.83368pt, 517.84052pt, 39.83368pt)
-* v-part:(T,H,B)=(42.67912pt, 751.15268pt, 51.21504pt)
+* v-part:(T,H,B)=(42.67912pt, 765.94824pt, 36.41948pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
 * \textwidth=517.84052pt
-* \textheight=751.15268pt
+* \textheight=765.94824pt
 * \oddsidemargin=-32.43631pt
 * \evensidemargin=-32.43631pt
 * \topmargin=-66.59087pt
@@ -1733,6 +1733,6 @@ Here is how much of TeX's memory you used:
  39593 multiletter control sequences out of 15000+600000
  533868 words of font info for 74 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 72i,12n,89p,10495b,438s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 72i,12n,89p,10496b,440s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on cv.pdf (2 pages).
