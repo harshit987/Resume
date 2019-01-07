@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.1.5)  7 JAN 2019 03:16
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.1.5)  7 JAN 2019 16:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1384,142 +1384,127 @@ l.1 \cvsection{Projects}
 ! Undefined control sequence.
 \bodyfont ->\sourcesanspro 
                            
-l.17   }
+l.18   }
         
 ? 
 ! Undefined control sequence.
 \bodyfontlight ->\sourcesansprolight 
                                      
-l.17   }
+l.18   }
         
 ? 
 ! Undefined control sequence.
 \bodyfont ->\sourcesanspro 
                            
-l.17   }
+l.18   }
         
 ? 
 
 LaTeX Font Warning: Font shape `TU/lmr/bx/sc' undefined
-(Font)              using `TU/lmr/bx/n' instead on input line 17.
+(Font)              using `TU/lmr/bx/n' instead on input line 18.
 
 ! Undefined control sequence.
 \bodyfontlight ->\sourcesansprolight 
                                      
-l.17   }
+l.18   }
         
 ? 
 ! Undefined control sequence.
 \bodyfontlight ->\sourcesansprolight 
                                      
-l.17   }
+l.18   }
         
 ? 
 ! Undefined control sequence.
 \bodyfont ->\sourcesanspro 
                            
-l.30   }
+l.32   }
         
 ? 
 ! Undefined control sequence.
 \bodyfontlight ->\sourcesansprolight 
                                      
-l.30   }
+l.32   }
         
 ? 
 ! Undefined control sequence.
 \bodyfont ->\sourcesanspro 
                            
-l.30   }
+l.32   }
         
 ? 
 ! Undefined control sequence.
 \bodyfontlight ->\sourcesansprolight 
                                      
-l.30   }
+l.32   }
         
 ? 
 ! Undefined control sequence.
 \bodyfontlight ->\sourcesansprolight 
                                      
-l.30   }
+l.32   }
         
 ? 
 ! Undefined control sequence.
 \bodyfont ->\sourcesanspro 
                            
-l.42   }
+l.45   }
         
 ? 
 ! Undefined control sequence.
 \bodyfontlight ->\sourcesansprolight 
                                      
-l.42   }
+l.45   }
         
 ? 
 ! Undefined control sequence.
 \bodyfont ->\sourcesanspro 
                            
-l.42   }
+l.45   }
         
 ? 
 ! Undefined control sequence.
 \bodyfontlight ->\sourcesansprolight 
                                      
-l.42   }
+l.45   }
         
 ? 
 ! Undefined control sequence.
 \bodyfontlight ->\sourcesansprolight 
                                      
-l.42   }
+l.45   }
         
 ? 
 ! Undefined control sequence.
 \bodyfont ->\sourcesanspro 
                            
-l.54   }
+l.59   }
         
 ? 
 ! Undefined control sequence.
 \bodyfontlight ->\sourcesansprolight 
                                      
-l.54   }
+l.59   }
         
 ? 
 ! Undefined control sequence.
 \bodyfont ->\sourcesanspro 
                            
-l.54   }
+l.59   }
         
 ? 
 ! Undefined control sequence.
 \bodyfontlight ->\sourcesansprolight 
                                      
-l.54   }
+l.59   }
         
 ? 
 ! Undefined control sequence.
 \bodyfontlight ->\sourcesansprolight 
                                      
-l.54   }
+l.59   }
         
 ? 
-
-Overfull \hbox (4.86182pt too wide) in paragraph at lines 17--55
-   [] 
- []
-
-
-Overfull \hbox (4.86182pt too wide) in paragraph at lines 17--55
-   [] 
- []
-
-
-Overfull \hbox (4.86182pt too wide) in paragraph at lines 17--55
-   [] 
- []
-
 ) (./sections/coursework.tex
 ! Undefined control sequence.
 \bodyfont ->\sourcesanspro 
@@ -1729,10 +1714,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  36179 strings out of 494988
  719748 string characters out of 6178639
- 923859 words of memory out of 5000000
+ 924860 words of memory out of 5000000
  39593 multiletter control sequences out of 15000+600000
  533868 words of font info for 74 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 72i,12n,89p,10496b,440s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 72i,12n,89p,10496b,438s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on cv.pdf (2 pages).
