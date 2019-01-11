@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.1.5)  11 JAN 2019 19:07
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.1.5)  11 JAN 2019 22:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1281,97 +1281,97 @@ l.1 \cvsection{Scholastic Achievements}
 ! Undefined control sequence.
 \bodyfont ->\sourcesanspro 
                            
-l.8   {2017}
+l.7   {2017}
             
 ? 
 ! Undefined control sequence.
 \bodyfont ->\sourcesanspro 
                            
-l.8   {2017}
+l.7   {2017}
             
 ? 
 ! Undefined control sequence.
 \bodyfont ->\sourcesanspro 
                            
-l.8   {2017}
+l.7   {2017}
             
 ? 
 ! Undefined control sequence.
 \bodyfontlight ->\sourcesansprolight 
                                      
-l.8   {2017}
+l.7   {2017}
             
 ? 
 ! Undefined control sequence.
 \bodyfont ->\sourcesanspro 
                            
-l.14   {2017}
+l.13   {2017}
              
 ? 
 ! Undefined control sequence.
 \bodyfont ->\sourcesanspro 
                            
-l.14   {2017}
+l.13   {2017}
              
 ? 
 ! Undefined control sequence.
 \bodyfont ->\sourcesanspro 
                            
-l.14   {2017}
+l.13   {2017}
              
 ? 
 ! Undefined control sequence.
 \bodyfontlight ->\sourcesansprolight 
                                      
-l.14   {2017}
+l.13   {2017}
              
 ? 
 ! Undefined control sequence.
 \bodyfont ->\sourcesanspro 
                            
-l.21   {2016}
+l.20   {2016}
              
 ? 
 ! Undefined control sequence.
 \bodyfont ->\sourcesanspro 
                            
-l.21   {2016}
+l.20   {2016}
              
 ? 
 ! Undefined control sequence.
 \bodyfont ->\sourcesanspro 
                            
-l.21   {2016}
+l.20   {2016}
              
 ? 
 ! Undefined control sequence.
 \bodyfontlight ->\sourcesansprolight 
                                      
-l.21   {2016}
+l.20   {2016}
              
 ? 
 ! Undefined control sequence.
 \bodyfont ->\sourcesanspro 
                            
-l.27   {2016}
+l.26   {2016}
              
 ? 
 ! Undefined control sequence.
 \bodyfont ->\sourcesanspro 
                            
-l.27   {2016}
+l.26   {2016}
              
 ? 
 ! Undefined control sequence.
 \bodyfont ->\sourcesanspro 
                            
-l.27   {2016}
+l.26   {2016}
              
 ? 
 ! Undefined control sequence.
 \bodyfontlight ->\sourcesansprolight 
                                      
-l.27   {2016}
+l.26   {2016}
              
 ? 
 ) (./sections/project.tex
@@ -1418,136 +1418,62 @@ l.18   }
 ! Undefined control sequence.
 \bodyfont ->\sourcesanspro 
                            
-l.32   }
+l.31   }
         
 ? 
 ! Undefined control sequence.
 \bodyfontlight ->\sourcesansprolight 
                                      
-l.32   }
+l.31   }
         
 ? 
 ! Undefined control sequence.
 \bodyfont ->\sourcesanspro 
                            
-l.32   }
+l.31   }
         
 ? 
 ! Undefined control sequence.
 \bodyfontlight ->\sourcesansprolight 
                                      
-l.32   }
+l.31   }
         
 ? 
 ! Undefined control sequence.
 \bodyfontlight ->\sourcesansprolight 
                                      
-l.32   }
+l.31   }
         
 ? 
 ! Undefined control sequence.
 \bodyfont ->\sourcesanspro 
                            
-l.45   }
+l.57   }
         
 ? 
 ! Undefined control sequence.
 \bodyfontlight ->\sourcesansprolight 
                                      
-l.45   }
+l.57   }
         
 ? 
 ! Undefined control sequence.
 \bodyfont ->\sourcesanspro 
                            
-l.45   }
+l.57   }
         
 ? 
 ! Undefined control sequence.
 \bodyfontlight ->\sourcesansprolight 
                                      
-l.45   }
+l.57   }
         
 ? 
 ! Undefined control sequence.
 \bodyfontlight ->\sourcesansprolight 
                                      
-l.45   }
+l.57   }
         
-? 
-! Undefined control sequence.
-\bodyfont ->\sourcesanspro 
-                           
-l.59   }
-        
-? 
-! Undefined control sequence.
-\bodyfontlight ->\sourcesansprolight 
-                                     
-l.59   }
-        
-? 
-! Undefined control sequence.
-\bodyfont ->\sourcesanspro 
-                           
-l.59   }
-        
-? 
-! Undefined control sequence.
-\bodyfontlight ->\sourcesansprolight 
-                                     
-l.59   }
-        
-? 
-! Undefined control sequence.
-\bodyfontlight ->\sourcesansprolight 
-                                     
-l.59   }
-        
-? 
-) (./sections/positions.tex
-! Undefined control sequence.
-\bodyfont ->\sourcesanspro 
-                           
-l.2 \cvsection{Positions of Responsibility}
-                                           
-? 
-! Undefined control sequence.
-\bodyfont ->\sourcesanspro 
-                           
-l.18   }
-        
-? 
-! Undefined control sequence.
-\bodyfontlight ->\sourcesansprolight 
-                                     
-l.18   }
-        
-? 
-! Undefined control sequence.
-\bodyfont ->\sourcesanspro 
-                           
-l.18   }
-        
-? 
-! Undefined control sequence.
-\bodyfontlight ->\sourcesansprolight 
-                                     
-l.18   }
-        
-? 
-! Undefined control sequence.
-\bodyfontlight ->\sourcesansprolight 
-                                     
-l.18   }
-        
-? 
-Runaway argument?
-! Paragraph ended before \cventry was complete.
-<to be read again> 
-                   \par 
-l.20 
-     
 ? 
 ) (./sections/coursework.tex
 ! Undefined control sequence.
@@ -1562,27 +1488,6 @@ l.1 \cvsection{Relevant Courses}
 l.3 {\fontsize{9pt}{1em}\bodyfontlight
                                       \upshape\color{text}
 ? 
-! Undefined control sequence.
-\footerfont ->\sourcesanspro 
-                             
-l.4   \begin{tabular*}{\textwidth}
-                                  {l l l}
-? 
-! Undefined control sequence.
-\footerfont ->\sourcesanspro 
-                             
-l.4   \begin{tabular*}{\textwidth}
-                                  {l l l}
-? 
-! Undefined control sequence.
-\footerfont ->\sourcesanspro 
-                             
-l.4   \begin{tabular*}{\textwidth}
-                                  {l l l}
-? 
-[1
-
-]
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
 (Font)              scaled to size 9.00014pt on input line 4.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
@@ -1597,7 +1502,7 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 4.99992pt on input line 4.
 
 Underfull \hbox (badness 10000) in alignment at lines 4--9
-[][][]
+[][][] 
  []
 
 ! Undefined control sequence.
@@ -1618,7 +1523,7 @@ Underfull \hbox (badness 10000) in alignment at lines 12--14
  []
 
 
-Overfull \hbox (2.43091pt too wide) in paragraph at lines 4--17
+Overfull \hbox (2.43091pt too wide) in paragraph at lines 4--16
 [] [][]
  []
 
@@ -1682,6 +1587,71 @@ Overfull \hbox (31.71115pt too wide) in alignment at lines 2--20
 [] [] 
  []
 
+) (./sections/positions.tex
+! Undefined control sequence.
+\bodyfont ->\sourcesanspro 
+                           
+l.2 \cvsection{Positions of Responsibility}
+                                           
+? 
+! Undefined control sequence.
+\footerfont ->\sourcesanspro 
+                             
+l.4 \begin{cventries}
+                     
+? 
+! Undefined control sequence.
+\footerfont ->\sourcesanspro 
+                             
+l.4 \begin{cventries}
+                     
+? 
+! Undefined control sequence.
+\footerfont ->\sourcesanspro 
+                             
+l.4 \begin{cventries}
+                     
+? 
+[1
+
+]
+! Undefined control sequence.
+\bodyfont ->\sourcesanspro 
+                           
+l.18   }
+        
+? 
+! Undefined control sequence.
+\bodyfontlight ->\sourcesansprolight 
+                                     
+l.18   }
+        
+? 
+! Undefined control sequence.
+\bodyfont ->\sourcesanspro 
+                           
+l.18   }
+        
+? 
+! Undefined control sequence.
+\bodyfontlight ->\sourcesansprolight 
+                                     
+l.18   }
+        
+? 
+! Undefined control sequence.
+\bodyfontlight ->\sourcesansprolight 
+                                     
+l.18   }
+        
+? 
+Runaway argument?
+! Paragraph ended before \cventry was complete.
+<to be read again> 
+                   \par 
+l.20 
+     
+? 
 )
 ! Undefined control sequence.
 \footerfont ->\sourcesanspro 
@@ -1715,7 +1685,7 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  36179 strings out of 494988
  719748 string characters out of 6178639
- 923860 words of memory out of 5000000
+ 922860 words of memory out of 5000000
  39593 multiletter control sequences out of 15000+600000
  533868 words of font info for 74 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
